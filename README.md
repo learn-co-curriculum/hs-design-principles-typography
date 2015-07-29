@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, typography
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - Typography
 Here are some additional resources to help you make decisions about the typography on your site.
