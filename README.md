@@ -1,6 +1,6 @@
 ##Design Principles - Typography
 
-<img src="git@github.com:learn-co-curriculum/hs-design-principles-typography.git" width="300px" align="right" hspace="10">
+<img src="https://s3.amazonaws.com/after-school-assets/typography.jpg" width="300px" align="right" hspace="10">
 
 Here are some additional resources to help you make decisions about the typography on your site.
 
