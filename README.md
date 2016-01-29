@@ -16,4 +16,4 @@ Here are some additional resources to help you make decisions about the typograp
 
 + [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803)
 
-<a href='https://learn.co/lessons/hs-design-principles-typography' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-design-principles-typography' title='Design Principles - Typography'>Design Principles - Typography</a> on Learn.co and start learning to code for free.</p>
